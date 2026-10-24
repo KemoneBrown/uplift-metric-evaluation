@@ -1,0 +1,9 @@
+# Pinned dependencies for reproducibility (NFR1, NFR2).
+# Python 3.10 target.
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.2
+scipy==1.13.1
+matplotlib==3.9.2
+causalml==0.15.3
+pytest==8.3.3
